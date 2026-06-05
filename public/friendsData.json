@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Aisha Khan",
+    "picture": "https://i.pinimg.com/originals/2e/a1/09/2ea10943dbf89df29aa41ce7065aef4a.png",
+    "email": "aisha.khan@example.com",
+    "days_since_contact": 2,
+    "status": "on-track",
+    "tags": [
+      "artist",
+      "student"
+    ],
+    "bio": "A creative arts student who loves painting landscapes and visiting local galleries.",
+    "goal": 7,
+    "next_due_date": "2026-05-12"
+  },
+  {
+    "id": 2,
+    "name": "Liam Smith",
+    "picture": "https://i.pinimg.com/control1/1200x/49/25/71/4925713c155ed5682bdb09edb7858928.jpg",
+    "email": "liam.smith@example.com",
+    "days_since_contact": 28,
+    "status": "almost due",
+    "tags": [
+      "techie",
+      "gamer"
+    ],
+    "bio": "A software developer who enjoys competitive gaming and building custom PCs.",
+    "goal": 30,
+    "next_due_date": "2026-05-20"
+  },
+  {
+    "id": 4,
+    "name": "Fatima Zahra",
+    "picture": "https://i.pinimg.com/736x/77/55/52/775552fc729883e2dd1f4eda3f0f3221.jpg",
+    "email": "fatima.z@example.com",
+    "days_since_contact": 5,
+    "status": "on-track",
+    "tags": [
+      "reader",
+      "traveler"
+    ],
+    "bio": "An avid reader who loves exploring new cultures and documenting her travels.",
+    "goal": 14,
+    "next_due_date": "2026-05-15"
+  },
+  {
+    "id": 5,
+    "name": "Noah Williams",
+    "picture": "https://i.pinimg.com/736x/cf/54/6b/cf546b404d366fffae5f79de1e2e45a9.jpg",
+    "email": "noah.w@example.com",
+    "days_since_contact": 0,
+    "status": "on-track",
+    "tags": [
+      "athlete",
+      "musician"
+    ],
+    "bio": "A marathon runner who also plays the guitar in a local indie band.",
+    "goal": 1,
+    "next_due_date": "2026-05-06"
+  },
+  {
+    "id": 6,
+    "name": "Chloe Chen",
+    "picture": "https://i.pinimg.com/736x/f4/9e/81/f49e816f365e5709693777ea3751a04e.jpg",
+    "email": "chloe.c@example.com",
+    "days_since_contact": 25,
+    "status": "overdue",
+    "tags": [
+      "designer",
+      "foodie"
+    ],
+    "bio": "A graphic designer with a passion for trying out new street food spots.",
+    "goal": 21,
+    "next_due_date": "2026-05-10"
+  },
+  {
+    "id": 7,
+    "name": "Omar Hassan",
+    "picture": "https://i.pinimg.com/736x/c2/ff/6e/c2ff6eabee43e581d0a573d4b13ae8d2.jpg",
+    "email": "omar.h@example.com",
+    "days_since_contact": 2,
+    "status": "almost-due",
+    "tags": [
+      "engineer",
+      "hiker"
+    ],
+    "bio": "A mechanical engineer who spends his weekends hiking in the mountains.",
+    "goal": 3,
+    "next_due_date": "2026-05-07"
+  },
+  {
+    "id": 8,
+    "name": "Zainab Ahmed",
+    "picture": "https://i.pinimg.com/736x/70/32/42/70324231c12d8b36bf6657952623b39b.jpg",
+    "email": "zainab.a@example.com",
+    "days_since_contact": 3,
+    "status": "on-track",
+    "tags": [
+      "writer",
+      "poet"
+    ],
+    "bio": "A freelance writer who finds inspiration in quiet cafes and poetry slams.",
+    "goal": 7,
+    "next_due_date": "2026-05-09"
+  },
+  {
+    "id": 9,
+    "name": "Ethan Jones",
+    "picture": "https://i.pinimg.com/736x/a7/b2/cf/a7b2cf8958a0b5a6185453c7f18db9f4.jpg",
+    "email": "ethan.j@example.com",
+    "days_since_contact": 9,
+    "status": "almost-due",
+    "tags": [
+      "chef",
+      "photographer"
+    ],
+    "bio": "A professional chef who loves capturing the beauty of food through photography.",
+    "goal": 10,
+    "next_due_date": "2026-05-11"
+  },
+  {
+    "id": 10,
+    "name": "Maya Rodriguez",
+    "picture": "https://i.pinimg.com/originals/45/50/f0/4550f0259c8cf956f84c3334b900843e.png",
+    "email": "maya.r@example.com",
+    "days_since_contact": 1,
+    "status": "on-track",
+    "tags": [
+      "dancer",
+      "environmentalist"
+    ],
+    "bio": "A contemporary dancer who is also active in local environmental conservation.",
+    "goal": 5,
+    "next_due_date": "2026-05-07"
+  },
+  {
+    "id": 11,
+    "name": "Lucas Brown",
+    "picture": "https://i.pinimg.com/736x/8d/d1/c6/8dd1c6ea2494ec9d6eff5f3e35bec673.jpg",
+    "email": "lucas.b@example.com",
+    "days_since_contact": 4,
+    "status": "on-track",
+    "tags": [
+      "historian",
+      "chess"
+    ],
+    "bio": "A history teacher who enjoys playing strategic chess games in the park.",
+    "goal": 14,
+    "next_due_date": "2026-05-14"
+  },
+  {
+    "id": 12,
+    "name": "Maryam Ali",
+    "picture": "https://i.pinimg.com/736x/d3/2a/9f/d32a9fc6dcf1ae41612a02cba1c8f8d9.jpg",
+    "email": "maryam.a@example.com",
+    "days_since_contact": 12,
+    "status": "almost-due",
+    "tags": [
+      "scientist",
+      "volunteer"
+    ],
+    "bio": "A research scientist who spends her free time volunteering at the local library.",
+    "goal": 14,
+    "next_due_date": "2026-05-13"
+  },
+  {
+    "id": 14,
+    "name": "James Wilson",
+    "picture": "https://i.pinimg.com/736x/81/4e/b9/814eb92dbacd288f8384a2d1e8fc8de6.jpg",
+    "email": "james.w@example.com",
+    "days_since_contact": 2,
+    "status": "on-track",
+    "tags": [
+      "entrepreneur",
+      "movie buff"
+    ],
+    "bio": "A startup founder who never misses a weekend movie premiere at the cinema.",
+    "goal": 5,
+    "next_due_date": "2026-05-08"
+  }
+]
